@@ -1,10 +1,28 @@
 # Screen-Time-Analysis
-Das Projekt ist wie folgt strukturiert:
 
-Der Kern der Arbeit ist in der PDF-Datei "Datenanalyse_der_Handynutzungsdauer_und_Gewohnheiten" zusammengefasst. In dieser Datei werden die Daten präsentiert, Diagramme ausgewertet und ausführlich interpretiert.
+# Screen Time Analysis
 
-Ordner /data: Dieser Ordner enthält die drei Tabellen, die unter anderem als Grundlage für die Analyse dienten.
+This project focuses on analyzing smartphone usage duration and habits. It is structured as follows:
 
-Ordner /code: Hier befinden sich Beispiel-Funktionen, die zur Erstellung der Diagramme verwendet wurden.
+## 📄 Core Analysis
+The main analysis is documented in the PDF file:  
+**`Datenanalyse_der_Handynutzungsdauer_und_Gewohnheiten.pdf`**  
+It includes:
+- Presentation of the collected data
+- Visualizations and graphs
+- In-depth interpretation of usage patterns
 
-Ordner /diagrams: Dieser Ordner enthält sämtliche im Projekt verwendeten Diagramme. So können diese bei Bedarf in besserer Auflösung oder größerer Darstellung eingesehen werden, falls sie in der PDF-Datei schwer lesbar sein sollten.
+## 📁 Project Structure
+
+- **`/data`**  
+  Contains the three data tables used as the basis for the analysis.
+
+- **`/code`**  
+  Includes example Python functions used to generate the visualizations.
+
+- **`/diagrams`**  
+  Stores all diagrams and charts used in the analysis. These are provided in higher resolution for better readability, especially if the PDF version appears unclear.
+
+---
+
+Feel free to explore the files and folders for a deeper look into the methodology and visual insights.
