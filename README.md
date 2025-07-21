@@ -1,7 +1,5 @@
 # Screen-Time-Analysis
 
-# Screen Time Analysis
-
 This project focuses on analyzing smartphone usage duration and habits. It is structured as follows:
 
 ## 📄 Core Analysis
